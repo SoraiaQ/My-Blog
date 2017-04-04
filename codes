@@ -1,0 +1,46 @@
+ /*
+            Console.WriteLine("My Program");
+            string name = "Monday";
+            Console.WriteLine(name);
+            int age = 23;
+            Console.WriteLine(age);
+            int magicnumber = int.Parse(Console.ReadLine());
+            Console.WriteLine(magicnumber * 2);
+            if (magicnumber % 3 == 0)
+            {
+                Console.WriteLine("Yes");
+            }
+            else
+            {
+                Console.WriteLine("No");
+            }*/
+            for (int i =0; i < 200; i++)
+            {
+                Console.WriteLine(i);
+                if (i % 3 == 0)
+                {
+                    Console.WriteLine("Fizz");
+                }
+
+                Console.WriteLine(i);
+                if (i % 5 == 0)
+                {
+                    Console.WriteLine("Buzz");
+                }
+                if (i % 7 == 0) ;
+                {
+                    Console.WriteLine("fizzBang");
+                }
+                if (i % 11 ==0)
+                {
+                    Console.WriteLine("Bong");
+                }
+                
+            }
+             
+               int x 14 
+                {
+
+                }
+             
+            
